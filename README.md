@@ -19,6 +19,9 @@ with nothing to install.
 | `git-recovery-history` | Git Recovery: Reflog, Lost Branches and Secrets in History | ubuntu |
 | `helm-custom-chart` | A Custom Helm Chart That Rolls on Config Change | kubernetes-kubeadm-1node |
 | `helm-upgrade-rollback` | Helm Upgrades, Rollbacks and Release Strategy | kubernetes-kubeadm-1node |
+| `incident-cluster-dns` | Incident: Service-to-Service Calls Fail | kubernetes-kubeadm-1node |
+| `incident-crashloopbackoff` | Incident: CrashLoopBackOff | kubernetes-kubeadm-1node |
+| `incident-ingress-502` | Incident: 502 Bad Gateway | kubernetes-kubeadm-1node |
 | `jenkins-docker-pipeline` | Jenkins Pipeline: Build, Scan and Push an Image | ubuntu |
 | `jenkins-fundamentals` | Jenkins: Persistent Home, Push Triggers and Who May Build | ubuntu |
 | `k8s-chaos-experiments` | Chaos Experiments: Measure the Recovery You Assume | kubernetes-kubeadm-1node |
